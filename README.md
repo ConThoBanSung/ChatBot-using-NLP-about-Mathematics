@@ -50,6 +50,7 @@ This is the source code for a chatbot built using the BART (Bidirectional and Au
 2. Then run train.py to train ( make sure you have installed all the libraries ) - wait about 30min to train
 
 => after training, you will see this 2 folder ( which is folder include model ang results )
+
 ![image](https://github.com/user-attachments/assets/b134d1ae-d8fa-4beb-8e60-76a1b8039ea0)
 
 3. Then you can type your question and ChatBot will answer
