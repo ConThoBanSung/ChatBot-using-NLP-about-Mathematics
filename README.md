@@ -17,7 +17,7 @@ This is the source code for a chatbot built using the BART (Bidirectional and Au
 1. **Prepare Data**: Ensure that your `dataset.csv` file is in the same directory as the source code.
 ![image](https://github.com/user-attachments/assets/48f258b2-3b2d-4d54-816e-0669fbd02c67)
 
-2. **Run Training**: Execute the script using the command `python chatbot.py`. The training process will save results to the `results` directory and logs to the `logs` directory (if configured).
+2. **Run Training**: Execute the script using the command `python train.py`. The training process will save results to the `results` directory and logs to the `logs` directory (if configured).
 ![image](https://github.com/user-attachments/assets/ceae2399-5c5b-4066-8131-46aa0a0309b1)
 
 3. **Run Interactive Mode**: After training is complete, the script will switch to interactive mode. You can enter your questions, and the chatbot will respond. Enter `exit` to quit the program.
